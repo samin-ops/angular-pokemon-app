@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-pokemon-app-a9a16": {
+      "hosting": {
+        "ng-pokemon-app": [
+          "ng-pokemon-app-a9a16"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-pokemon-app-a9a16"
+  }
+}
